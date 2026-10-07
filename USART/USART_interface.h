@@ -15,7 +15,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    USART_interface.h    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ * 
  *  Layer  : MCAL
  *  SWC    : USART
  *
@@ -31,7 +31,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    USART_interface.h    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ *  
  *  Layer   : MCAL
  *  SWC    : USART
  *
@@ -41,7 +41,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    USART_interface.h    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ * 
  *  Layer   : MCAL
  *  SWC    : USART
  *
