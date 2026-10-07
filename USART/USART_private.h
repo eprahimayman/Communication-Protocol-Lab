@@ -15,7 +15,7 @@
 /*
  *<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    USART_private.h    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
  *
- *  Author : Mahmoud Karem Zamel
+ *  
  *  Layer  : MCAL
  *  SWC    : USART
  *
